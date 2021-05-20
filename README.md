@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+# My Name is Rahul Roy !--
 **Rahul6918/Rahul6918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
