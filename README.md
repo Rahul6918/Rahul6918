@@ -27,12 +27,12 @@
 - 🇮🇳 Bengali
 <hr>
 
-[![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rahul6918&theme=xcode)](https://git.io/Rahul6918)
+[![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rahul6918&theme=github)](https://git.io/Rahul6918)
 <br />
 
 <h1>Knowledge Statistics</h1>
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul6918&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6918&&layout=compact&hide=shell&theme=jolly"/> 
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul6918&show_icons=true&theme=github&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6918&&layout=compact&hide=shell&theme=github"/> 
 </div>
  <br>
 
