@@ -38,4 +38,4 @@
 
 ## Pojects
 <a href src="https://github.com/Rahul6918/cryptoupdatestracker" style='color:white'>Crypto Updates Tracker</a> <br>
-<a href src="https://github.com/Rahul6918/DivertYourMind" style='color:white'>Crypto Updates Tracker</a>
+<a href src="https://github.com/Rahul6918/DivertYourMind" style='color:white'>Divert Your Mind</a>
