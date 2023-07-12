@@ -20,7 +20,7 @@
 
 </p>
 
-<h1>Languages I speak</h1>
+<h1>Languages I can't speak</h1>
   
 - 🇺🇸 English
 - 🇮🇳 Hindi
